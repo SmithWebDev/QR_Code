@@ -12,3 +12,6 @@
 	- note: when entering a custom color the # is not needed for the hexadecimal. 
 	- note: shorthand hexidecimal will be ignore and default value applied.
 - *SIZE*: Defaults to 300. Input integer based on size of the output image. 
+
+###### added Github repo for gem. Additional options for gem use found there
+https://github.com/whomwah/rqrcode/
