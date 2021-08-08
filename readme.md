@@ -19,4 +19,4 @@ https://github.com/whomwah/rqrcode/
 ##### Command to input
 ```ruby
 	ruby URL FILL SIZE
-	```
+```
