@@ -15,3 +15,8 @@
 
 ###### added Github repo for gem. Additional options for gem use found there
 https://github.com/whomwah/rqrcode/
+
+##### Command to input
+```ruby
+	ruby URL FILL SIZE
+	```
